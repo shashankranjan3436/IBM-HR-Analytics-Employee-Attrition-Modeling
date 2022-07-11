@@ -26,7 +26,7 @@ Attrition is a major risk to service-providing organizations where trained and e
   - Give a bar chart for the number of married and unmarried employees
   - Build up a logistic regression model to predict which employees are likely to attrite.
 
-# LIBRARIES USED:
+# Libraries used:
 - numpy
 - pandas
 - tensorflow
